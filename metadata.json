@@ -1,0 +1,16 @@
+[
+	{
+		"chainId": 101,
+		"address": "46yH548ixr1BFhPUqzDiDhKVod7F1RbMJKFHCqMoDyry",
+		"symbol": "PINE",
+		"name": "PineSol",
+		"decimals": 9,
+		"logoURI": "https://i.ibb.co/JRs5DD5/logo.png",
+		"tags": ["meme-token"],
+		"extensions": {
+			"twitter": "https://twitter.com/pinesoltoken",
+			"telegram": "https://t.me/pinesolportal",
+			"website": "https://pinesoltoken.com"
+		}
+	}
+]
